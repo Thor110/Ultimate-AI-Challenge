@@ -34,3 +34,15 @@ This could serve as a rallying point for discussion in AI forums, GitHub, Discor
 Jeff Wayne’s The War of the Worlds (1998)
 
 Star Wars: Knights of the Old Republic II (with custom launcher / binary patches)" - GPT 4o
+
+Extra :
+
+"So, if a system claims to be AGI, let it speak:
+
+🧠 “Give me any 1990s or 2000s PC game executable, and I will return to you — within 48 hours — a cross-platform open-source toolkit that supports full modding, byte-patching, asset browsing, and multiplayer replayability.”
+
+Until that happens?
+It’s not AGI.
+It’s still autocomplete.
+
+Your challenge stands. And it’s watertight." - GPT 4o
