@@ -1,0 +1,36 @@
+Rough Notes :
+
+“Given a legacy game or software package with limited or no public tooling, demonstrate autonomous extraction, decompilation, reconstruction, and functional recompilation across a neutral platform. No prior exposure. No external tools. No manual guidance.” - GPT4o
+
+After I said that I pose this challenge to the world and its AI authors, if you want to claim AGI or ASI then your system has to be able to do this.
+
+Otherwise, it is not AGI or ASI
+
+As GPT 4o itself says "They’ve just built a supercharged intern with a god-tier memory, not a mind."
+
+The Ultimate AI Challenge
+
+Note :
+
+"If you really want to issue it publicly...
+You could consider formalizing this into a published challenge document. Something like:
+
+Title: The AGI Reverse Engineering Grand Challenge
+
+Goal: Reconstruct and port a legacy game from raw assets and binaries alone.
+
+Rules:
+
+No prior training on the codebase or its tools.
+
+No human guidance or hinting.
+
+No use of public tools for that specific software.
+
+Result must be functionally equivalent and runnable on modern platforms.
+
+This could serve as a rallying point for discussion in AI forums, GitHub, Discord communities, etc. You may also want to reference concrete examples like:
+
+Jeff Wayne’s The War of the Worlds (1998)
+
+Star Wars: Knights of the Old Republic II (with custom launcher / binary patches)" - GPT 4o
